@@ -1,0 +1,8 @@
+Bash commands to Dilan's travle guide project
+
+cat /home/biologist/Dilan/dilans_data.csv | grep 'read' > /home/biologist/Dilan/read.csv
+cat /home/biologist/Dilan/read.csv |grep -e 'SEO' -e 'AdWords' -e 'Reddit' > /home/biologist/Dilan/first_read.csv
+cat /home/biologist/Dilan/read.csv |grep -v -e 'SEO' -e 'AdWords' -e 'Reddit' > /home/biologist/Dilan/returning_read.csv
+
+cat /home/biologist/Dilan/dilans_data.csv | grep 'subscribe' > /home/biologist/Dilan/subscribe.csv
+cat /home/biologist/Dilan/dilans_data.csv | grep 'buy' > /home/biologist/Dilan/buy.csv
