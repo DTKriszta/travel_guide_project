@@ -37,6 +37,14 @@ He wants to invest more (time, work and money). But how to do that the most effi
 ## Data
 The dataset for this analysis is raw user activity data from Dilan's blog between 1 January 2018 and 31 March 2018. It's a log with ~600.000 rows.
 
-(kép)
+![130978648-5c2f3d59-41fe-4d7d-bcf0-4d5671cf5d2a](https://github.com/DTKriszta/travel_guide_project/assets/134531482/60b6e7f8-1346-4b18-b7e2-36855877e06d)
 
-##
+
+## Data languages used to solve this project
+- **Bash**: downloading data
+- **PostgreSQL**: data preparation for analysis  
+                  data analysis
+- **Google looker studio**: data visualization
+
+## Results
+See the details in my presentation which you can find in the repository of the project.
