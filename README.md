@@ -1,6 +1,6 @@
 # Travel guide project
 
-
+![Screen Shot 2018-06-14 at 23 07 02](https://github.com/DTKriszta/travel_guide_project/assets/134531482/4f7d9d7a-0cc4-40fc-a77b-ac5fb61f7c4e)
 
 ## Goal of the project
 The goal of this analysis is to help a fictional startup get more information about its customers to improve decision-making.
