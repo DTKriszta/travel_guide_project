@@ -1,5 +1,5 @@
 # Travel guide project
-![Screen Shot 2018-06-14 at 23 07 02](https://github.com/DTKriszta/travel_guide_project/assets/134531482/73dbc16d-8dc6-4b71-9860-ed1ca3f1a46c)
+![130978648-5c2f3d59-41fe-4d7d-bcf0-4d5671cf5d2a](https://github.com/DTKriszta/travel_guide_project/assets/134531482/8f14d238-f3b3-4766-8262-3d1fbce7f543)
 
 
 ## Goal of the project
