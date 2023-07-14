@@ -1,5 +1,6 @@
 # Travel guide project
-![borító](C:\Users\tkrsz941.SAMDOM\Desktop\Dilan)
+![Screen Shot 2018-06-14 at 23 07 02](https://github.com/DTKriszta/travel_guide_project/assets/134531482/73dbc16d-8dc6-4b71-9860-ed1ca3f1a46c)
+
 
 ## Goal of the project
 The goal of this analysis is to help a fictional startup get more information about its customers to improve decision-making.
